@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>CONJUGAR-by CJ Czepiel</title>
+        HOLA AMIGOS<br>
+    </head>
+    
+    <body bgcolor='#000000' text='#4e10b1' align="center">
+        CONJUGAR DE VERBOS-BY CJ CZEPIEL
+        
+        <table cellpadding='10' border='1' bordercolor='#0df4ad' style="float: left">
+            <tr>
+                <td colspan='6'>
+                    -ar
+                </td>
+            </tr>
+            <tr>
+                <td>Past</td>
+                <td>Present</td>
+                <td>
+                    Future-
+                </td>
+                <td>Past</td>
+                <td>Present</td>
+                <td>Future</td>
+            </tr>
+            <tr>
+                <td>-é</td>
+                <td>-o</td>
+                <td>-é</td>
+                <td>-amos</td>
+                <td>-amos</td>
+                <td>-emos</td>
+            </tr>
+            <tr>
+                <td>-aste</td>
+                <td>-as</td>
+                <td>-ás</td>
+                <td>-asteis</td>
+                <td>-áis</td>
+                <td>-éis</td>
+            </tr>
+            <tr>
+                <td>-ó</td>
+                <td>-a</td>
+                <td>-á</td>
+                <td>-aron</td>
+                <td>-an</td>
+                <td>-á</td>
+            </tr>
+        </table>
+        
+        <h1>Note:</h1>
+        <p style="float:right">Do NOT drop the -ar<br>-er, or -ir ending for<br> future tense verbs!!</p>
+        
+    </body>
+    <body>
+        
+    </body>
+</html>
